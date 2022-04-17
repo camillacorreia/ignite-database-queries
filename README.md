@@ -1,7 +1,5 @@
 # Database Queries NodeJS
 
-___
-
 Consultas no banco de dados com o TypeORM de três maneiras:
 
 - Usando o ORM
